@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Name=UniLauncher
+Exec=sh -c '$(python /opt/unilauncher/app.py %U)'
+Terminal=true
+Type=Application
+Icon=utilities-terminal

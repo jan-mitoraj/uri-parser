@@ -4,4 +4,4 @@
  * xfreerdp
 
 ## Installation
-''./install.sh''
+`./install.sh`
